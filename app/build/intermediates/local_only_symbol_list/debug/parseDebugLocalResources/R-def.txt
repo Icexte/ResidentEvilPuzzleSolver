@@ -1,11 +1,20 @@
 R_DEF: Internal format may change without notice
 local
-id gameSpinner
+drawable bg_header
+drawable puzzle_chess
+drawable puzzle_lab
+drawable puzzle_lion
+drawable puzzle_projector
+drawable puzzle_swords
+id game
+id gameButtons
 id location
+id puzzleImage
 id puzzleList
-id searchEdit
+id search
+id summary
 id title
 layout activity_main
 layout item_puzzle
 string app_name
-style Theme.ResidentEvilPuzzleSolver
+style Theme.REPuzzleSolver

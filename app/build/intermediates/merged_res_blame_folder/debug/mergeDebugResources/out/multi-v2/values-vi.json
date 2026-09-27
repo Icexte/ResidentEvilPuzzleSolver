@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.ice.residentevilpuzzles.app-mergeDebugResources-30:/values-vi/values-vi.xml",
+            "outputFile": "com.ice.residentevilpuzzles.app-mergeDebugResources-31:/values-vi/values-vi.xml",
             "map": [
                 {
                     "source": "/home/codespace/.gradle/caches/9.7.1/transforms/f3a6f1398298b9f75006b218603b1505/transformed/core-1.15.0/res/values-vi/values-vi.xml",
