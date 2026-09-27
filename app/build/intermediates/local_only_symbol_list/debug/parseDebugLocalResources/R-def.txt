@@ -1,0 +1,11 @@
+R_DEF: Internal format may change without notice
+local
+id gameSpinner
+id location
+id puzzleList
+id searchEdit
+id title
+layout activity_main
+layout item_puzzle
+string app_name
+style Theme.ResidentEvilPuzzleSolver

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.ice.residentevilpuzzles.app-debug-32:/layout_activity_main.xml.flat",
+        "source": "com.ice.residentevilpuzzles.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.ice.residentevilpuzzles.app-debug-32:/layout_item_puzzle.xml.flat",
+        "source": "com.ice.residentevilpuzzles.app-main-34:/layout/item_puzzle.xml"
+    }
+]
