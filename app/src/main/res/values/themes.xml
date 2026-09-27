@@ -1,0 +1,6 @@
+<resources>
+<style name="Theme.ResidentEvilPuzzleSolver" parent="Theme.Material3.DayNight.NoActionBar">
+<item name="android:statusBarColor">#090909</item>
+<item name="android:navigationBarColor">#090909</item>
+</style>
+</resources>
