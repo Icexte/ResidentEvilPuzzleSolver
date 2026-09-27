@@ -1,0 +1,1 @@
+<resources><style name="Theme.REPuzzleSolver" parent="Theme.Material3.DayNight.NoActionBar"><item name="android:statusBarColor">#090B0F</item><item name="android:navigationBarColor">#090B0F</item><item name="android:fontFamily">sans</item></style></resources>
